@@ -103,16 +103,14 @@ Cities with lower Average Delivery Times show a strong correlation with higher s
 
 # 🖼️ Dashboard Preview
 
-> Replace the image paths below with your actual hosted image links or repository paths.
-
 ## Executive Overview
-![Executive Overview](https://github.com/kerry20222/Olist-Sales-Analysis/blob/main/Images/Executive%20Overview.png)
+![Executive Overview](https://github.com/Nambwa04/Olist-E-Commerce-Analysis/blob/main/Images/Executive%20Overview.png)
 
 ## Customer Analytics
-![Customer Analytics](https://github.com/kerry20222/Olist-Sales-Analysis/blob/main/Images/Customer%20Analytics.png)
+![Customer Analytics](https://github.com/Nambwa04/Olist-E-Commerce-Analysis/blob/main/Images/Customer%20Analytics.png)
 
 ## Product & Sales Performance
-![Product & Sales Performance](https://github.com/kerry20222/Olist-Sales-Analysis/blob/main/Images/Product%20%26%20Sales%20Performance.png)
+![Product & Sales Performance](https://github.com/Nambwa04/Olist-E-Commerce-Analysis/blob/main/Images/Product%20%26%20Sales%20Performance.png)
 
 ---
 
